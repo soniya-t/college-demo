@@ -1,4 +1,4 @@
 # college-demo
 this is a git repository.
 <br>
-By Soniya Thapa (author)
+By Soniya Thapa (author 1)
